@@ -1,6 +1,9 @@
-## Monsters-rolodex-complete
+## Monsters-rolodex-complete(Class Based component) 
 
 The completed version of our monsters rolodex project!
+
+## Live Project Link
+[Monsters rolodex Project](https://monsters-rolod.netlify.app/)
 
 # How to fork and clone
 
